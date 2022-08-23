@@ -20,8 +20,7 @@ public class Silver2coin implements Task {
 
     @Override
     public void run() {
-
-        return "银瓜子换硬币（已失效，占位用）";
+        System.out.print("111");
     }
 
     @Override
