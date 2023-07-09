@@ -23,7 +23,7 @@ BILIBILI-HELPER
 **如果觉得好用，顺手点个 Star 吧 ❤**
 
 **仓库地址：[JunzhouLiu/BILIBILI-HELPER](https://github.com/JunzhouLiu/BILIBILI-HELPER)**
-
+（已经寄了）
 **请不要滥用相关API，让我们一起爱护B站 ❤**
 
 ## 功能列表
